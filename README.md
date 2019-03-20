@@ -7,7 +7,7 @@ npm -v   - 5.6.0
 3. npm init
 4. npm install --save express body-parser morgan
 5. create new file in root app.js 
-6. nodemon app.js
+6. node app.js
 7. npm install -g sequelize-cli ( global ) 
 8. npm install --no-bin-links sequelize --save
 9. npm install --no-bin-links mysql2 --save
